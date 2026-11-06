@@ -352,6 +352,7 @@
 - [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
 - [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. ![Freeware][Freeware Icon]
 - [Wineskin](https://github.com/Gcenx/WineskinServer) - Run Windows applications and games on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Gcenx/WineskinServer) ![Freeware][Freeware Icon]
+- [Yokoi](https://indieocean.github.io/yokoi/) - Native developer cleanup with dry runs and Trash-first file cleanup. [![Open-Source Software][OSS Icon]](https://github.com/indieocean/yokoi) ![Freeware][Freeware Icon]
 
 ### Video
 
@@ -534,3 +535,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
+
